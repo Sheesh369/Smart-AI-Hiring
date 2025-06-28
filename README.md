@@ -36,6 +36,3 @@ You can download them from the following Google Drive link:
 - Python 3.8+
 - Libraries: PyTorch, Transformers, scikit-learn, pandas, numpy, seaborn, matplotlib
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
